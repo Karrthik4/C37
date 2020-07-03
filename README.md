@@ -1,2 +1,7 @@
 # synchronousBallMovement
-Ball moving synchronously
+
+
+OutPut Link:
+
+
+https://karrthik4.github.io/C37/
